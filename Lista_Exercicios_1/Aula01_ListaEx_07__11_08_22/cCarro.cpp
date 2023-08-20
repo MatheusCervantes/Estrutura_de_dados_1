@@ -33,5 +33,5 @@ void cCarro::insert(){
 }
 
 double cCarro::calculo (double c) {
-    return c * 1.28 + c * 1.45 + c;
+    return c * 1.28 + c * 1.45;
 }
